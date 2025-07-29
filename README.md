@@ -2,7 +2,7 @@
 
 
 This is a Streamlit-based multilingual translator built in Google Colab using:
-
+ 
 - HuggingFace `MarianMTModel` for translations
 - `langdetect` for language detection
 - Streamlit + pyngrok for deployment in Colab
